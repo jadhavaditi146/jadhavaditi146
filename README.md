@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditi Jadhav
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on coding projects
+- 🌱 I’m currently learning Front End Development and UI/UX design
+- 💞️ I’m looking to collaborate on coding and designing projects
 - 📫 How to reach me jadhavaditi146@gmail.com
 - 😄 Pronouns: She/Her
   
